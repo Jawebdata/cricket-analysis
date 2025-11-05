@@ -1,82 +1,67 @@
-# 🏏 Cricket Analysis Project
+# 🏏 Cricket Analysis – End-to-End Data Analytics Project  
 
-## 🔍 Overview
-This project is an **end-to-end Cricket Data Analysis** workflow.  
-I collected cricket player and match data using **web scraping**, cleaned and analyzed it in **Python (Pandas)**, and finally built an **interactive Power BI dashboard** with insights using **DAX formulas**.
-
-The main goal is to find trends in player performance, team results, and overall match analytics.
+An **end-to-end Cricket Data Analysis** project combining **Web Scraping, Python, Pandas, Power BI, and DAX** to uncover player performance, team trends, and match insights — all displayed through an interactive Power BI dashboard.  
 
 ---
 
-## ⚙️ Tools & Technologies Used
-- 🐍 **Python:** Data scraping, cleaning, and transformation  
-- 📦 **Pandas:** Data analysis and manipulation  
-- 📊 **Power BI:** Dashboard creation and visualization  
-- 🧮 **DAX Formulas:** Calculated columns & KPIs  
-- 📘 **VS Code:** Code and analysis documentation  
-- 💻 **Git & GitHub:** Version control and portfolio
+## 📌 Features  
+- Real cricket data collected via **Web Scraping**  
+- Data cleaning and EDA using **Python (Pandas)**  
+- Interactive **Power BI dashboard** using **DAX**  
+- Player, team, and venue-wise insights with dynamic slicers  
 
 ---
 
-## 📁 Project Workflow
-| Step | Description | Tools Used |
-|------|--------------|------------|
-| 1️⃣ | Data collection from cricket websites | Python |
-| 2️⃣ | Data cleaning & preprocessing | Pandas |
-| 3️⃣ | Data analysis & summary reports | Pandas, Matplotlib |
-| 4️⃣ | Dashboard building | Power BI |
-| 5️⃣ | DAX measures & insights | Power BI |
-| 6️⃣ | Final reporting & visualization | Markdown, Power BI visuals |
+## 🛠️ Tools Used  
+- 🐍 Python & Pandas  
+- 📊 Power BI & DAX  
+- 📗 Excel / CSV  
+- 💻 VS Code  
 
 ---
 
-## 📊 Power BI Dashboard Insights
-- 🏆 Top performing players (runs, wickets, strike rate, etc.)  
-- 📈 Team-wise & season-wise performance comparison  
-- 🎯 Player consistency and match impact analysis  
-- 🌍 Country & venue-based trends  
-- 🔄 Dynamic filters for players, teams, and matches  
+## 📁 Repository Structure  
+
+| Category | File / Folder | Description |
+|-----------|----------------|-------------|
+| 🐍 [Analysis.py](analsis_python/Analysis.py) | Python script for data cleaning & processing |
+| 📁 [t20_csv_files](t20_csv_files/) | Cleaned CSV datasets |
+| 📁 [t20_json_files](t20_json_files/) | Raw JSON files from web scraping |
+| 🕸️ [web_scrapping_codes](web_scrapping_codes/) | Scripts for scraping cricket data |
+| 📊 [Cricket Analysis Dashboard.pbix](Cricket%20Analysis%20Dashboard.pbix) | Power BI dashboard file |
+| 🧮 [measure file helps.xlsx](measure%20file%20helps.xlsx) | DAX measure reference file |
+| 📋 [dim_players_no_images.csv](dim_players_no_images.csv) | Final player data CSV |
 
 ---
 
-## 📸 Dashboard Preview
-| Overview Dashboard | Player Insights |
-|--------------------|-----------------|
-| ![Overview](powerbi_dashboard/dashboard_screenshots/overview.png) | ![Player Analysis](powerbi_dashboard/dashboard_screenshots/player_analysis.png) |
+## 🖼️ Dashboard Previews  
+
+| Overview | All-Rounder | Drill Section |
+|-----------|-------------|---------------|
+| ![Main Dashboard](pictures%20of%20dashboard/Project%20main%20page.png) | ![All Rounder](pictures%20of%20dashboard/all%20rounder.png) | ![Drill Section](pictures%20of%20dashboard/drill%20pictures%20section.png) |
+
+| Finisher Page | Anchor Page |
+|----------------|-------------|
+| ![Finisher Page](pictures%20of%20dashboard/New%20Finisher%20Page.png) | ![Anchor Page](pictures%20of%20dashboard/New%20Anchors%20page.png) |
 
 ---
 
-## 🧠 Key Learnings
-- Built a complete **data analytics pipeline** from raw scraping → dashboard.  
-- Learned **data transformation and modeling** using Pandas & Power BI.  
-- Strengthened understanding of **DAX formulas** and KPIs.  
-- Improved storytelling through **interactive visuals**.
+## 📊 Key Insights  
+- 🏆 Top-performing players (runs, wickets, consistency)  
+- 🕵️ Role-based views: Finishers, Anchors, All-rounders  
+- 🌍 Venue & country-based stats  
+- 📈 Dynamic KPIs, filters, and trend charts  
 
 ---
-📁 Project Repository
-Category	File / Folder	Link
-📜 Python Script	Analysis.py	View File
 
-📁 CSV Data	t20_csv_files	Open Folder
+## ⚙️ How to Run  
 
-📁 JSON Data	t20_json_files	Open Folder
-
-🕸️ Web Scraping Codes	web_scrapping_codes	Open Folder
-
-📊 Power BI Dashboard	Cricket Analysis Dashboard.pbix	Download / View
-
-🧮 DAX Measure File	measure file helps.xlsx	View File
-
-🧾 Player Dataset	dim_players_no_images.csv	View File
-🖼️ Dashboard Previews
-Overview	All-Rounder	Drill Section
-
-	
-	
-Finisher Page	Anchor Page
-
-	
+1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/Jawebdata/cricket-analysis.git
+cd cricket-analysis
 
 
-
-
+👨‍💻 Author
+Javed Hussain
+Email: hussainjaved001100@gmail.com

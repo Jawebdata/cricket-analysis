@@ -1,5 +1,3 @@
-# cricket-analysis
-End-to-end Cricket Data Analysis using Web Scraping, Python, Pandas, Power BI, and DAX — uncovering player insights, performance metrics, and match trends.
 # 🏏 Cricket Analysis Project
 
 ## 🔍 Overview
@@ -55,6 +53,30 @@ The main goal is to find trends in player performance, team results, and overall
 - Improved storytelling through **interactive visuals**.
 
 ---
+📁 Project Repository
+Category	File / Folder	Link
+📜 Python Script	Analysis.py	View File
+
+📁 CSV Data	t20_csv_files	Open Folder
+
+📁 JSON Data	t20_json_files	Open Folder
+
+🕸️ Web Scraping Codes	web_scrapping_codes	Open Folder
+
+📊 Power BI Dashboard	Cricket Analysis Dashboard.pbix	Download / View
+
+🧮 DAX Measure File	measure file helps.xlsx	View File
+
+🧾 Player Dataset	dim_players_no_images.csv	View File
+🖼️ Dashboard Previews
+Overview	All-Rounder	Drill Section
+
+	
+	
+Finisher Page	Anchor Page
+
+	
+
 
 
 

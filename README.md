@@ -55,6 +55,7 @@ Drill-Through Page	Player vs Opponent breakdown	Avg, S/R, Economy, Wickets, Runs
 | 📁 [t20_csv_files](t20_csv_files/) | Cleaned CSV datasets |
 | 📁 [t20_json_files](t20_json_files/) | Raw JSON files from web scraping |
 | 🕸️ [web_scrapping_codes](web_scrapping_codes/) | Scripts for scraping cricket data |
+| 🖼️ [pictures-of-dashboard](pictures of dashboard/) | dashboard pictures|
 | 📊 [Cricket Analysis Dashboard.pbix](Cricket%20Analysis%20Dashboard.pbix) | Power BI dashboard file |
 | 🧮 [measure file helps.xlsx](measure%20file%20helps.xlsx) | DAX measure reference file |
 | 📋 [dim_players_no_images.csv](dim_players_no_images.csv) | Final player data CSV |
@@ -70,6 +71,16 @@ Drill-Through Page	Player vs Opponent breakdown	Avg, S/R, Economy, Wickets, Runs
 | Finisher Page | Anchor Page |
 |----------------|-------------|
 | ![Finisher Page](pictures%20of%20dashboard/New%20Finisher%20Page.png) | ![Anchor Page](pictures%20of%20dashboard/New%20Anchors%20page.png) |
+
+| Selection Page | Specialist Page |
+|----------------|-------------|
+| ![Selection Page](pictures%20of%20dashboard/Selection%20player%20page.png) | ![Specialist Page](pictures%20of%20dashboard/Specialist%20Fast%20Bowler.png) |
+
+| drill page | feature Page |
+|----------------|-------------|
+| ![drill Page](pictures%20of%20dashboard/drill%20batting.png) | ![feature Page](pictures%20of%20dashboard/feature.png) |
+
+
 
 Key Technical Highlights:::
 DAX Formulas:

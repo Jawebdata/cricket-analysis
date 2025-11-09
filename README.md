@@ -55,7 +55,8 @@ Drill-Through Page	Player vs Opponent breakdown	Avg, S/R, Economy, Wickets, Runs
 | 📁 [t20_csv_files](t20_csv_files/) | Cleaned CSV datasets |
 | 📁 [t20_json_files](t20_json_files/) | Raw JSON files from web scraping |
 | 🕸️ [web_scrapping_codes](web_scrapping_codes/) | Scripts for scraping cricket data |
-| 🖼️ [pictures-of-dashboard](pictures of dashboard/) | dashboard pictures|
+| 🖼️ [pictures-of-dashboard](https://github.com/Jawebdata/cricket-analysis/tree/809b60f15495e6a5ed02e0530dba762bedbcd020/pictures%20of%20dashboard
+) | dashboard pictures|
 | 📊 [Cricket Analysis Dashboard.pbix](Cricket%20Analysis%20Dashboard.pbix) | Power BI dashboard file |
 | 🧮 [measure file helps.xlsx](measure%20file%20helps.xlsx) | DAX measure reference file |
 | 📋 [dim_players_no_images.csv](dim_players_no_images.csv) | Final player data CSV |
